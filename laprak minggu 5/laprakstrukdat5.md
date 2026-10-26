@@ -839,7 +839,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/mahardhikaputra469-dotcom/Mahardhika_Putra_Azlian/blob/main/laprak%205/soal%203%20modul%205/output%203.png)
+![Screenshot Output Unguided 3_1](https://github.com/hanifsaputra1530-hub/laprak_strukdaat-5/blob/main/laprak%20minggu%205/soal3/Screenshot%202026-10-26%20233336.png)
 
 penjelasan unguided 3 Fungsi totalInfo() berhasil menjumlahkan seluruh nilai yang terdapat dalam Singly Linked List dengan menelusuri setiap elemen menggunakan pointer. Hasil penjumlahan dari nilai 9, 12, 8, 0, dan 2 adalah 31, sehingga program dapat menampilkan jumlah seluruh elemen dengan benar.
 

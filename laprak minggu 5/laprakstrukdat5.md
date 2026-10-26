@@ -708,7 +708,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/mahardhikaputra469-dotcom/Mahardhika_Putra_Azlian/blob/main/laprak%205/soal%202%20modul%205/output%202.png)
+![Screenshot Output Unguided 2_1](https://github.com/hanifsaputra1530-hub/laprak_strukdaat-5/blob/main/laprak%20minggu%205/soal%202/Screenshot%202026-10-26%20233049.png)
 
 penjelasan unguided 2 Fungsi findElm() berhasil melakukan pencarian data pada Singly Linked List dengan memeriksa nilai setiap elemen secara berurutan. Ketika nilai 8 ditemukan, fungsi mengembalikan alamat elemen tersebut sehingga program dapat mengetahui bahwa data yang dicari tersedia di dalam list.
 
